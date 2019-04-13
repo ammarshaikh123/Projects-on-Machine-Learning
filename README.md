@@ -9,6 +9,10 @@ This repo contains my projects on Machine Learning, I have covered diverse topic
 2)[Give Life_ Predict Blood Donations](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Give%20Life_%20Predict%20Blood%20Donations)
 
 
+3)[Prediciting Titanic Survival](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Prediciting%20Titanic%20Survival)
+
+
+
 ### Few snapshots of visualization I have performed in the mentioned projects.
 
 ![alt text](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/blob/master/ML.png)
