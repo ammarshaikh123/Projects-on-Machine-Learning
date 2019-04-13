@@ -12,6 +12,10 @@ This repo contains my projects on Machine Learning, I have covered diverse topic
 3)[Prediciting Titanic Survival](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Prediciting%20Titanic%20Survival)
 
 
+4)[Predicting Bike Rentals](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Predicting%20Bike%20Rentals)
+
+
+
 
 ### Few snapshots of visualization I have performed in the mentioned projects.
 
