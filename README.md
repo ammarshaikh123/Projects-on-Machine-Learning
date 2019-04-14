@@ -18,7 +18,7 @@ This repo contains my projects on Machine Learning, I have covered diverse topic
 5)[Predicting Car Prices](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Predicting%20Car%20Prices)
 
 
-5)[Predicting Credit Card Approvals](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Predicting%20Credit%20Card%20Approvals)
+6)[Predicting Credit Card Approvals](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Predicting%20Credit%20Card%20Approvals)
 
 
 
