@@ -20,7 +20,7 @@ This repo contains my projects on Machine Learning, I have covered diverse topic
 
 6)[Predicting Credit Card Approvals](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Predicting%20Credit%20Card%20Approvals)
 
-
+7)[Predicting Credit Card Approvals](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Predicting%20board%20game%20reviews)
 
 
 ### Few snapshots of visualization I have performed in the mentioned projects.
