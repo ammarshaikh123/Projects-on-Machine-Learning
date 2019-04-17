@@ -23,7 +23,7 @@ This repo contains my projects on Machine Learning, I have covered diverse topic
 7)[Predicting board game reviews](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Predicting%20board%20game%20reviews)
 
 
-7)[Predicting board game reviews](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Predicting%20board%20game%20reviews)
+8)[Reducing Traffic Mortality in the USA](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Reducing%20Traffic%20Mortality%20in%20the%20USA)
 
 
 ### Few snapshots of visualization I have performed in the mentioned projects.
