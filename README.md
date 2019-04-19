@@ -4,7 +4,7 @@ This repo contains my projects on Machine Learning, I have covered diverse topic
 
 1)[Classify Song Genres from Audio Data](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Classify%20Song%20Genres%20from%20Audio%20Data)
 
-
+This project is based on recommending new music to the users by analysing various components. I have used PCA in this project for dimensionality reduction. For modelling I have tried different models like Decision Tree, Logistic Regression.
 
 2)[Give Life_ Predict Blood Donations](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Give%20Life_%20Predict%20Blood%20Donations)
 
