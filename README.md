@@ -8,6 +8,7 @@ This project is based on recommending new music to the users by analysing variou
 
 2)[Give Life_ Predict Blood Donations](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Give%20Life_%20Predict%20Blood%20Donations)
 
+This is binnary classification project where I predict if a dono who has donated blood in previous 6 months will dontate blood again or not.
 
 3)[Prediciting Titanic Survival](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Prediciting%20Titanic%20Survival)
 
