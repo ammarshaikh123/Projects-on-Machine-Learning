@@ -13,6 +13,8 @@ This project is based on binnary classification  where I predict if a donor who 
 3)[Prediciting Titanic Survival](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Prediciting%20Titanic%20Survival)
 
 
+In this project I worked on a Kaggle data set (Titanic Data Set). Based on all the features available I tried predicting whether a passanger will survive or not. I was able to land in top 14% of the competetion. I have used XGBoost along with hyper parameter tuning to get my results.
+
 4)[Predicting Bike Rentals](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Predicting%20Bike%20Rentals)
 
 
