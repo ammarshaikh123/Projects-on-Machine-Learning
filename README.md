@@ -17,7 +17,7 @@ In this project I worked on a Kaggle data set (Titanic Data Set). Based on all t
 
 4)[Predicting Bike Rentals](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Predicting%20Bike%20Rentals)
 
-Many American cities have communal bike sharing stations where you can rent bicycles by the hour or day. Washington, D.C. is one of these cities. In this project, I tried to predict the total number of bikes people rented in a given hour by using variables like monthly rental, weekly rental, temperature, humidity etc.
+Many American cities have communal bike sharing stations where you can rent bicycles by the hour or day. Washington, D.C. is one of these cities. In this project, I tried to predict the total number of bikes people rented in a given hour by using variables like monthly rental, weekly rental, temperature, humidity etc. We used Linear Regression as well as Decesion trees and compared which model provided us better results.
 
 
 5)[Predicting Car Prices](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Predicting%20Car%20Prices)
