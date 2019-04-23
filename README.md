@@ -22,6 +22,7 @@ Many American cities have communal bike sharing stations where you can rent bicy
 
 5)[Predicting Car Prices](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Predicting%20Car%20Prices)
 
+In this project I tried predicting price of car based on training my model with attributes like fuel-type,engine-type,compression-rate,horsepower etc.
 
 6)[Predicting Credit Card Approvals](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Predicting%20Credit%20Card%20Approvals)
 
