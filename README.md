@@ -26,6 +26,8 @@ In this project I tried predicting price of car based on training my model with 
 
 6)[Predicting Credit Card Approvals](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Predicting%20Credit%20Card%20Approvals)
 
+I worked on this project to get a feel of fraud detection analysis. We took a dataset and tried to predict whether a loan should be approved or not based on various features which were available.
+
 7)[Predicting board game reviews](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Predicting%20board%20game%20reviews)
 
 
