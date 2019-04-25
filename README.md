@@ -30,7 +30,7 @@ I worked on this project to get a feel of fraud detection analysis. From the giv
 
 7)[Predicting board game reviews](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Predicting%20board%20game%20reviews)
 
-In this project I worked with a data set that contains 80000 board games and their associated review scores.
+In this project I worked with a data set that contains 80000 board games and their associated review scores. We used various parameters of review and tried to predict the average rating of a board game. We used co-relation to find out relavant variables for my analysis and Linear regression for modelling.
 
 8)[Reducing Traffic Mortality in the USA](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Reducing%20Traffic%20Mortality%20in%20the%20USA)
 
