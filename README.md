@@ -36,7 +36,9 @@ In this project I worked with a data set that contains 80000 board games and the
 
 This project was based on the increasing rate of road accidents. I used unsupervised learning for training my model and PCA for dimensionality reduction. I also tried to display a concept called as masking by using multivariate regression.
 
-9)[Predicting TMDB Box Office Collections ](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/tree/master/Reducing%20Traffic%20Mortality%20in%20t
+9)[Predicting TMDB Box Office Collections ](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/blob/master/IMDB.ipynb)
+
+
 
 ### Few snapshots of visualization I have performed in the mentioned projects.
 
