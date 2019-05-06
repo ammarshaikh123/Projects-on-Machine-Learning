@@ -38,7 +38,7 @@ This project was based on the increasing rate of road accidents. I used unsuperv
 
 9)[Predicting TMDB Box Office Collections ](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/blob/master/IMDB.ipynb)
 
-
+In this project, I tried to predict box office collections of a movie based on various features provided in the data set
 
 ### Few snapshots of visualization I have performed in the mentioned projects.
 
