@@ -40,6 +40,10 @@ This project was based on the increasing rate of road accidents. I used unsuperv
 
 In this project, I tried to predict box office collections of a movie based on various features provided in the data set. It was a very intersting project to work on as the data formrat was something new to me and I got to learn and explore new dimensions of Data analytics.
 
+10)[Don't Overfit ](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/blob/master/Overfit.ipynb)
+
+This is a kaggle competition I worked on where we had only 250 rows in train set and around 1000+ rows in test.
+
 ### Few snapshots of visualization I have performed in the mentioned projects.
 
 ![alt text](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/blob/master/ML.png)
