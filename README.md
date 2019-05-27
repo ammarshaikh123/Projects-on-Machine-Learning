@@ -42,7 +42,7 @@ In this project, I tried to predict box office collections of a movie based on v
 
 10)[Don't Overfit ](https://github.com/ammarshaikh123/Projects-on-Machine-Learning/blob/master/Overfit.ipynb)
 
-This is a kaggle competition I worked on where we had only 250 rows in train set and around 1000+ rows in test.
+This is a kaggle competition I worked on where we had only 250 rows in train set and around 1000+ rows in test. The task was to predict the test set without overfitting the training set. I have tried using various models like xgboost, linear regression and later combined them inorder to achieve better performance.
 
 ### Few snapshots of visualization I have performed in the mentioned projects.
 
